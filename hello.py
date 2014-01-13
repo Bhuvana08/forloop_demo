@@ -5,3 +5,5 @@ def printing():
 		print fruit
 	for i,fruit in enumerate(fruits):
 		print i,"==>",fruit
+
+print "Hi"
