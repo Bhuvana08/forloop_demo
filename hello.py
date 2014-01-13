@@ -1,4 +1,5 @@
 def printing():
+	""" demonstration of for_loop"""
 	fruits=[mango,orange,papaya,grapes,apple,banana]
 	for fruit in fruits:
 		print fruit
